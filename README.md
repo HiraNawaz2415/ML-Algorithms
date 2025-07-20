@@ -1,2 +1,2 @@
 # ML-Algorithms
-This repo contains the practice algorithms that i have learn.
+This repo contains the Regression practice algorithms that i have learn.
